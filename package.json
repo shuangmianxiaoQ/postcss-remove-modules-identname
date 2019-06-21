@@ -1,6 +1,6 @@
 {
   "name": "postcss-remove-modules-identname",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "postcss plugin for remove css-module local ident name on ant design class name.",
   "keywords": [
     "postcss",
