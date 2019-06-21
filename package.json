@@ -12,8 +12,8 @@
   "main": "index.js",
   "author": "shuangmianxiaoQ <1245814811@qq.com>",
   "license": "MIT",
-  "repository": "",
-  "homepage": "",
+  "repository": "shuangmianxiaoQ/postcss-remove-modules-identname",
+  "homepage": "https://github.com/shuangmianxiaoQ/postcss-remove-modules-identname",
   "dependencies": {
     "postcss": "^7.0.17"
   }
